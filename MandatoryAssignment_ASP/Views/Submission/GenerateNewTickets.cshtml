@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Genereate new tickets";
+}
+
+<h2>Generate new Tickets</h2>
+<p>Warning, pressing the button will delete all current submissions and create 100 new tickets with different ID numbers.</p>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GenerateTickets">
+            <div class="form-group">
+                <input type="submit" value="GenerateTickets" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

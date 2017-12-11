@@ -1,0 +1,11 @@
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\bin\Debug\netcoreapp2.0\MandatoryAssignment_ASP.deps.json
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\bin\Debug\netcoreapp2.0\MandatoryAssignment_ASP.runtimeconfig.json
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\bin\Debug\netcoreapp2.0\MandatoryAssignment_ASP.runtimeconfig.dev.json
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\bin\Debug\netcoreapp2.0\MandatoryAssignment_ASP.dll
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\bin\Debug\netcoreapp2.0\MandatoryAssignment_ASP.pdb
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.csprojResolveAssemblyReference.cache
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.csproj.CoreCompileInputs.cache
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.AssemblyInfoInputs.cache
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.AssemblyInfo.cs
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.dll
+c:\users\benjamin\source\repos\MandatoryAssignment_ASP\MandatoryAssignment_ASP\obj\Debug\netcoreapp2.0\MandatoryAssignment_ASP.pdb
