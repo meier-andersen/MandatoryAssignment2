@@ -70,7 +70,6 @@ namespace MandatoryAssignment_ASP.Models
         }
         public void SaveToFile() //saves the object to a file
         {
-            Console.WriteLine("Saving: {0}, {1}, {2}, {3}, {4}, {5}",EntryNumber, TicketID, FirstName, SurName, PhoneNumber, EmailAdress);
             using (FileStream strm = new FileStream("Submissions/Entry" + EntryNumber + ".dat", FileMode.Create))
             {
                 IFormatter fmt = new BinaryFormatter();
